@@ -1,0 +1,104 @@
+html{
+  background-color: rgba(204, 0, 0, 0.1)
+}
+
+html, body{
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+#tweedeInhoud{
+  display: flex;
+}
+
+#tweedeInhoud>div{
+  flex: 0 1 auto;
+}
+
+#tweedeInhoud div img{
+  max-width: 300px;
+  width: 100%;
+}
+
+#tweedeInhoud>section{
+  flex: 1 1 70%;
+  padding: 1em;
+}
+
+
+.achter-grond{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.5);
+  height: 100%;
+  width: 100%;
+}
+
+.modaal-venster{
+  display: block;
+  width: 75%;
+  background-color: white;
+  padding: 1em;
+  box-sizing: border-box;
+  position: absolute;
+  animation: groei 5s forwards;
+}
+
+@keyframes groei {
+  0%{
+    -webkit-transform: scale3d(0, 0, 0);
+    transform: scale3d(0, 0, 0);
+  }
+  100%{
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.sluitbut{
+  font-size: 2.5em;
+  position: absolute;
+  top: .5em;
+  right: .5em;
+}
+.sluitbut:hover{
+color: red;
+cursor: crosshair;
+}
+
+button{
+  background-color: rgba(204, 0, 0, 0.4);
+}
+button:hover{
+  cursor: copy;
+  font-size: 110%;
+}
+
+#M:hover{
+  color: red;
+}
+#o:hover{
+  color: orange;
+}
+#d:hover{
+  color: yellow;
+}
+#a:hover{
+  color: green;
+}
+#A:hover{
+  color: blue;
+}
+#l:hover{
+  color: purple;
+}
+#v:hover{
+  color: pink;
+}
+
+footer{
+  text-align: center;
+margin-top: 80%;
+}

@@ -5,3 +5,5 @@ Op deze site heb ik twee knoppen geplaatst die ook beiden een ander modaal venst
 Dit was een opdracht die je in je eentje moest maken.
 We hebben in de lessen tijd gehad om aan de opdracht te werken. Uitleg kon je vragen aan de docent.
 Op het internet kon je ook zoeken naar antwoorden voor je vragen.
+
+http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.3/fro/modaal/

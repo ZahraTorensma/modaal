@@ -1,3 +1,7 @@
-Een opdracht die ik in mei 2017 heb gemaakt op school.
+#Modaal Venster
+
 Voor deze opdracht was het de bedoeling om te oefenen met modale vensters.
-Het doel van de opdracht was om door te drukken op de knoppen, een modaal venster te laten openen.
+Op deze site heb ik twee knoppen geplaatst die ook beiden een ander modaal venster openen.
+Dit was een opdracht die je in je eentje moest maken.
+We hebben in de lessen tijd gehad om aan de opdracht te werken. Uitleg kon je vragen aan de docent.
+Op het internet kon je ook zoeken naar antwoorden voor je vragen.

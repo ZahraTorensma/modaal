@@ -1,4 +1,4 @@
-#Modaal Venster
+# Modaal Venster
 
 Voor deze opdracht was het de bedoeling om te oefenen met modale vensters.
 Op deze site heb ik twee knoppen geplaatst die ook beiden een ander modaal venster openen.
